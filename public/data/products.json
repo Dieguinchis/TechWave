@@ -38,29 +38,5 @@
     "category": "perifericos",
     "description": "Teclado mecánico compacto 75%, switches táctiles y retroiluminación RGB personalizable.",
     "imageUrl": "/images/aerokeys-rgb.jpg"
-  },
-  {
-    "id": "6",
-    "name": "Mouse Falcon V2",
-    "price": 6900,
-    "category": "perifericos",
-    "description": "Mouse ergonómico para gaming con sensor óptico 20K DPI y peso ajustable.",
-    "imageUrl": "/images/falcon-v2.jpg"
-  },
-  {
-    "id": "7",
-    "name": "Drone SkyScout Mini",
-    "price": 89900,
-    "category": "drone",
-    "description": "Drone compacto con cámara 4K, estabilización gimbal y 30 min de autonomía de vuelo.",
-    "imageUrl": "/images/skyscout-mini.jpg"
-  },
-  {
-    "id": "8",
-    "name": "Altavoz SmartHome EchoLite",
-    "price": 10900,
-    "category": "hogar-inteligente",
-    "description": "Altavoz con asistente integrado, audio envolvente y compatibilidad con dispositivos smart.",
-    "imageUrl": "/images/echolite.jpg"
   }
 ]
