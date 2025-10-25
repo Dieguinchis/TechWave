@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Auriculares NovaBuds Pro",
+    "price": 12900,
+    "category": "audio",
+    "description": "Auriculares inalámbricos con cancelación activa de ruido, 30 h de batería y carga rápida.",
+    "imageUrl": "/images/nova-buds-pro.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Teléfono PixelWave X1",
+    "price": 69900,
+    "category": "smartphone",
+    "description": "Smartphone con pantalla OLED 6.5\", cámara triple 50 MP y procesador de alto rendimiento.",
+    "imageUrl": "/images/pixelwave-x1.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Reloj SmartPulse 3",
+    "price": 25900,
+    "category": "wearable",
+    "description": "Smartwatch con monitorización de salud 24/7, GPS integrado y resistencia al agua 5ATM.",
+    "imageUrl": "/images/smartpulse-3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "SSD Portátil ThunderX 1TB",
+    "price": 49900,
+    "category": "storage",
+    "description": "Unidad SSD externa NVMe compacta, lectura hasta 2000 MB/s y carcasa resistente.",
+    "imageUrl": "/images/thunderx-1tb.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Teclado Mecánico AeroKeys RGB",
+    "price": 13900,
+    "category": "perifericos",
+    "description": "Teclado mecánico compacto 75%, switches táctiles y retroiluminación RGB personalizable.",
+    "imageUrl": "/images/aerokeys-rgb.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Mouse Falcon V2",
+    "price": 6900,
+    "category": "perifericos",
+    "description": "Mouse ergonómico para gaming con sensor óptico 20K DPI y peso ajustable.",
+    "imageUrl": "/images/falcon-v2.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Drone SkyScout Mini",
+    "price": 89900,
+    "category": "drone",
+    "description": "Drone compacto con cámara 4K, estabilización gimbal y 30 min de autonomía de vuelo.",
+    "imageUrl": "/images/skyscout-mini.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Altavoz SmartHome EchoLite",
+    "price": 10900,
+    "category": "hogar-inteligente",
+    "description": "Altavoz con asistente integrado, audio envolvente y compatibilidad con dispositivos smart.",
+    "imageUrl": "/images/echolite.jpg"
+  }
+]

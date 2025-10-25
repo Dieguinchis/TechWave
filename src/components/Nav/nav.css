@@ -1,0 +1,40 @@
+.nav {
+  background: var(--bg-2);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.nav__brand a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav__links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+.nav__item a {
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav__item a:hover {
+  color: var(--accent);
+}
+
+.in-cart {
+  background: var(--accent);
+  color: var(--bg);
+  padding: 0.2rem 0.5rem;
+  border-radius: 50%;
+  margin-left: 0.5rem;
+  font-size: 0.8rem;
+}
