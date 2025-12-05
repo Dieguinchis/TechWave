@@ -6,7 +6,7 @@ import { CartProvider } from "./context/CartContext/CartProvider";
 import './App.css';
 import { RutaProtegida } from './components/RutaProtegida/RutaProtegida';
 import { Login } from './components/Login/Login';
-import { AdminLayout } from './layouts/Adminlayout';
+import { AdminLayout } from './layouts/AdminLayout';
 import { MainLayout } from "./layouts/Mainlayout";
 import { ProductFormContainer } from './components/adminComponents/ProductFormContainer/ProductFormContainer';
 import { Cart } from './components/Cart/Cart';
