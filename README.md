@@ -1,38 +1,31 @@
 # TechWave
 
-Tienda online desarrollada en React.
+TechWave es una tienda online de tecnología desarrollada con React y Vite. Permite explorar productos, agregarlos al carrito, gestionar compras y administrar productos desde un panel protegido.
 
-## Instalación
+## Características
 
-```bash
-npm install
-```
+- Listado y búsqueda de productos por nombre o categoría
+- Carrito de compras con gestión de cantidades y total
+- Panel de administración protegido por login
+- Alta de productos con carga de imagen
+- Consumo de datos desde MockAPI
 
 ## Uso
 
-```bash
-npm run dev
-```
+- Explora productos en la página principal.
+- Usa la barra de búsqueda para filtrar por nombre o categoría.
+- Haz clic en un producto para ver su detalle y agregarlo al carrito.
+- Accede al carrito desde el menú para ver, eliminar o finalizar la compra.
+- Ingresa como administrador (`admin` / `1234`) para acceder al panel y cargar nuevos productos.
 
-## Funcionalidades
+## Tecnologías
 
-- Catálogo de productos con búsqueda y paginación.
-- Carrito de compras global.
-- Autenticación simulada.
-- Panel de administración (CRUD de productos).
-- Diseño responsive con Bootstrap.
-- Notificaciones con React Toastify.
+- React
+- Vite
+- MockAPI
+- CSS moderno
+- Imgbb (para carga de imágenes)
 
-## Acceso
+## Autor
 
-- `/` Catálogo
-- `/carrito` Carrito (requiere login)
-- `/admin` Panel admin (requiere login)
-- `/login` Login
-
-## MockAPI
-
-Configura la URL de MockAPI en `src/context/ProductContext/ProductContext.jsx`.
-
----
-
+Desarrollado por [Dieguinchis](https://github.com Dieguinchis).
